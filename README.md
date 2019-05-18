@@ -19,12 +19,12 @@ This workshop will use Azure DevOps and Azure Machine Learning Services.
 
 ## Agenda
 
-| Time         | Topic                                          |
-| ------------ | ---------------------------------------------- |
-| 8:30 - 9:00  | Breakfast & Registration                       |
-| 9:00 - 10:00 | Session: Overview of AML Pipelines             |
-| 10:00 -12:00 | Lab: MLOps                                     |
-| 12:00 – 1:00 | Lunch / Group Discussion                       |
-| 1:00 – 2:00  | Session: Defining the build pipeline/YAML      |
-| 2:00 - 4:00  | Lab: Construct your own build pipeline (2 hrs) |
-| 4:00 – 5:00  | Session: Constructing an AML pipeline          |
+| Time         | Topic                                     |
+| ------------ | ----------------------------------------- |
+| 8:30 - 9:00  | Breakfast & Registration                  |
+| 9:00 - 10:00 | Session: Overview of AML Pipelines        |
+| 10:00 -12:00 | Lab: MLOps                                |
+| 12:00 – 1:00 | Lunch / Group Discussion                  |
+| 1:00 – 2:00  | Session: Defining the build pipeline/YAML |
+| 2:00 - 4:00  | Lab: Construct your own build pipeline    |
+| 4:00 – 5:00  | Session: Constructing an AML pipeline     |
