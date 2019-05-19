@@ -10,11 +10,11 @@ This workshop will use Azure DevOps and Azure Machine Learning Services.
 
 ## Pre-Requisites
 
-- An active Azure subscription with at least contributor level access for you
-- Ownership permissions to a resource group that will be used for provisioning the pipeline services
+- An active Azure subscription  
+- At least contributor role access to the Azure subscription
 - Access to an Azure DevOps account
-- With contributor level access, create a service principal in the Azure portal (see document in this repository)
-- A service principal with contributor level access to the Azure subscriptin.  A service principal and credentials will be used for authentication within the AML pipelines. Because a service principal is created outside of the subscription (in Azure Active Directory), in order to use it for AML Pipelines, the service principal needs to be assigned to a contributor role within the Azure subscription.  The lab exercises will require these values: Service principal name, service principal application id, service principal password, service principal tenant it.  *For more details and step by step see the document MandatoryLabPreReqs.  
+- With contributor level access, create a service principal in the Azure portal (see *MandatoryLabPreReq* document in this repository)
+- Assign contributor role access to the service principal. A service principal and credentials will be used for authentication within the AML pipelines. Because a service principal is created outside of the subscription (in Azure Active Directory), in order to use it for AML Pipelines, the service principal needs to be assigned to a contributor role within the Azure subscription (see *MandatoryLaPreReq* document in this repository).   
 
 ## Agenda
 
