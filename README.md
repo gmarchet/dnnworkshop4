@@ -1,7 +1,7 @@
 # Taming the AI DevOps Pipeline
 
 Operationalizing AI models has its challenges.  Many organizations have successfully delivered AI proofs of concept and taken the next step to operationalize machine learning models only to find that very complex. Organizations are looking for guidance on a seamless handoff of the AI model from development to production and on the management of its lifecycle – essentially continuous integration / continuous delivery for AI. This hands-on workshop affors some practical experience of applying DevOps techniques to AI models, with the goal of building and deploying an automated AI pipeline.
-This workshop will use Azure DevOps and Azure Machine Learning Services.
+This workshop will use Azure DevOps, Azure Machine Learning Services, and assumes knowledge of python.
 
 ## Key Take-aways
 
