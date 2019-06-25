@@ -28,3 +28,6 @@ This workshop will use Azure DevOps, Azure Machine Learning Services, and assume
 | 1:00 – 3:30   | Lab: Implement a build, retrain, and deployment pipeline    |
 | 3:30 - 4:00   | Wrap-up                                                     |
 
+## Sources & Acknowledgements
+
+- This lab uses Azure DevOps and Azure Machine Learning and is heavily based on the work and guidance Praneet Singh Solanki has provided and published here: https://github.com/Microsoft/MLOpsPython. 
